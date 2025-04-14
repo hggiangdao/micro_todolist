@@ -1,0 +1,345 @@
+2025-04-01T18:11:41.362Z - [POST] /api/tasks
+2025-04-01T18:11:41.364Z - [POST] /api/tasks - Creating Task: Đi học
+2025-04-14T15:19:08.631Z - [POST] /api/tasks/create
+2025-04-14T15:22:18.723Z - [POST] /api/tasks/createTask
+2025-04-14T15:23:50.702Z - [POST] /api/tasks
+2025-04-14T15:23:50.702Z - [POST] /api/tasks - Creating Task: Làm test Task Service
+2025-04-14T15:23:50.703Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:24:14.618Z - [POST] /api/tasks
+2025-04-14T15:24:14.619Z - [POST] /api/tasks - Creating Task: Làm test Task Service
+2025-04-14T15:24:14.620Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:24:51.080Z - [POST] /api/tasks
+2025-04-14T15:24:51.080Z - [POST] /api/tasks - Creating Task: My New Task
+2025-04-14T15:24:51.080Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:30:05.798Z - [POST] /api/tasks
+2025-04-14T15:30:05.799Z - [POST] /api/tasks - Creating Task: My New Task
+2025-04-14T15:30:05.799Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:30:07.002Z - [POST] /api/tasks
+2025-04-14T15:30:07.002Z - [POST] /api/tasks - Creating Task: My New Task
+2025-04-14T15:30:07.003Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:30:30.372Z - [POST] /api/tasks
+2025-04-14T15:30:30.372Z - [POST] /api/tasks - Creating Task: Task 1
+2025-04-14T15:30:30.373Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:30:31.708Z - [POST] /api/tasks
+2025-04-14T15:30:31.708Z - [POST] /api/tasks - Creating Task: Task 1
+2025-04-14T15:30:31.708Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:32:06.774Z - [POST] /api/tasks
+2025-04-14T15:32:06.775Z - [POST] /api/tasks - Creating Task: My New Task
+2025-04-14T15:32:06.775Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:32:07.787Z - [POST] /api/tasks
+2025-04-14T15:32:07.787Z - [POST] /api/tasks - Creating Task: My New Task
+2025-04-14T15:32:07.788Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:32:44.516Z - [POST] /api/tasks
+2025-04-14T15:32:44.517Z - [POST] /api/tasks - Creating Task: My New Task
+2025-04-14T15:32:44.517Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.createTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:53:24)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T15:33:32.242Z - [POST] /api/tasks
+2025-04-14T15:35:33.952Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:35:33.953Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:35:34.012Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:117:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:44:42.482Z - [GET] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:44:48.576Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:44:48.586Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:44:48.588Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - mongoose is not defined - Stack: ReferenceError: mongoose is not defined
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:114:5)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:365:14)
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:421:3)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+2025-04-14T15:45:53.237Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:45:53.237Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:45:53.237Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - mongoose is not defined - Stack: ReferenceError: mongoose is not defined
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:114:5)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:365:14)
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:421:3)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+2025-04-14T15:45:54.120Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:45:54.120Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:45:54.121Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - mongoose is not defined - Stack: ReferenceError: mongoose is not defined
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:114:5)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:365:14)
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:421:3)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+2025-04-14T15:46:10.040Z - [DELETE] /api/tasks
+2025-04-14T15:46:14.187Z - [DELETE] /api/tasks/
+2025-04-14T15:46:20.622Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:46:20.622Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:46:20.623Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - mongoose is not defined - Stack: ReferenceError: mongoose is not defined
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:114:5)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:365:14)
+    at param (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:421:3)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+2025-04-14T15:47:30.982Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:47:30.984Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:47:31.042Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:48:39.925Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:48:39.926Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:48:39.966Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:48:41.061Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:48:41.061Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:48:41.108Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:50:02.648Z - [DELETE] /api/tasks/0c954422-7432-48a3-acbc-69545f9585c4
+2025-04-14T15:50:02.648Z - [DELETE] /api/tasks/0c954422-7432-48a3-acbc-69545f9585c4 - Deleting Task
+2025-04-14T15:50:04.989Z - [DELETE] /api/tasks/0c954422-7432-48a3-acbc-69545f9585c4
+2025-04-14T15:50:04.990Z - [DELETE] /api/tasks/0c954422-7432-48a3-acbc-69545f9585c4 - Deleting Task
+2025-04-14T15:51:06.519Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:51:06.520Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:51:06.559Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:51:09.879Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:51:09.880Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:51:09.931Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:53:07.822Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:53:07.823Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:53:07.864Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:53:09.272Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:53:09.273Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:53:09.315Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:53:25.375Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:53:25.375Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:53:25.453Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:54:01.602Z - [DELETE] /api/tasks/'67fd2acc304851adbd64af0e'
+2025-04-14T15:54:01.604Z - [DELETE] /api/tasks/'67fd2acc304851adbd64af0e' - Deleting Task
+2025-04-14T15:54:02.815Z - [DELETE] /api/tasks/'67fd2acc304851adbd64af0e'
+2025-04-14T15:54:02.817Z - [DELETE] /api/tasks/'67fd2acc304851adbd64af0e' - Deleting Task
+2025-04-14T15:54:35.717Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:54:35.718Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:54:35.762Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:54:55.494Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:54:55.494Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:54:55.549Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:55:29.298Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:55:29.299Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:55:29.342Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:55:30.381Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T15:55:30.381Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e - Deleting Task
+2025-04-14T15:55:30.511Z - [ERROR] /api/tasks/67fd2acc304851adbd64af0e - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.deleteTask (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:125:45)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-14T15:57:35.482Z - [DELETE] /api/tasks/67fd2acc304851adbd64af0e
+2025-04-14T16:30:57.192Z - [POST] /api/tasks
+2025-04-14T16:31:26.206Z - [POST] /api/tasks
+2025-04-14T16:31:29.413Z - [POST] /api/tasks
+2025-04-14T16:32:34.157Z - [GET] /api/tasks?page=1&limit=10
+2025-04-14T16:32:34.158Z - [GET] /api/tasks
+2025-04-14T16:32:34.158Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.getTasks (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:20:54)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T16:34:03.207Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:34:03.207Z - [GET] /api/tasks
+2025-04-14T16:34:03.208Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.getTasks (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:20:54)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T16:34:04.851Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:34:04.851Z - [GET] /api/tasks
+2025-04-14T16:34:04.851Z - [ERROR] /api/tasks - Cannot read properties of undefined (reading 'id') - Stack: TypeError: Cannot read properties of undefined (reading 'id')
+    at exports.getTasks (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\controllers\taskController.js:20:54)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\layer.js:95:5)
+    at d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:346:12)
+    at next (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:175:3)
+    at router (d:\hocki2nam3\doanchuyenganh\backend_\todolist_service\node_modules\express\lib\router\index.js:47:12)
+2025-04-14T16:36:55.119Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:36:55.120Z - [GET] /api/tasks/undefined
+2025-04-14T16:37:49.169Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:37:49.169Z - [GET] /api/tasks/undefined
+2025-04-14T16:37:50.329Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:37:50.329Z - [GET] /api/tasks/undefined
+2025-04-14T16:38:11.683Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:38:11.684Z - [GET] /api/tasks/undefined
+2025-04-14T16:38:12.849Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:38:12.849Z - [GET] /api/tasks/undefined
+2025-04-14T16:38:17.735Z - [GET] /api/tasks/userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:38:50.696Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:38:50.696Z - [GET] /api/tasks/undefined
+2025-04-14T16:38:52.218Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:38:52.219Z - [GET] /api/tasks/undefined
+2025-04-14T16:39:05.347Z - [GET] /api/tasks?userId=%2205e347fd-9e93-418b-9e15-a583466dd08e%22
+2025-04-14T16:39:05.348Z - [GET] /api/tasks/undefined
+2025-04-14T16:40:19.525Z - [GET] /api/tasks?userId=%2205e347fd-9e93-418b-9e15-a583466dd08e%22
+2025-04-14T16:40:19.525Z - [GET] /api/tasks/undefined
+2025-04-14T16:40:20.562Z - [GET] /api/tasks?userId=%2205e347fd-9e93-418b-9e15-a583466dd08e%22
+2025-04-14T16:40:20.562Z - [GET] /api/tasks/undefined
+2025-04-14T16:40:30.358Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e&page=1&limit=10%0A
+2025-04-14T16:40:30.358Z - [GET] /api/tasks/undefined
+2025-04-14T16:40:31.432Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e&page=1&limit=10%0A
+2025-04-14T16:40:31.433Z - [GET] /api/tasks/undefined
+2025-04-14T16:42:04.221Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e&page=1&limit=10%0A
+2025-04-14T16:42:05.587Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e&page=1&limit=10%0A
+2025-04-14T16:42:07.448Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e&page=1&limit=10%0A
+2025-04-14T16:42:08.769Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e&page=1&limit=10%0A
+2025-04-14T16:42:18.899Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e%0A
+2025-04-14T16:43:35.662Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e%0A
+2025-04-14T16:50:20.915Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e%0A
+2025-04-14T16:51:38.427Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:52:54.915Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e%0A
+2025-04-14T16:52:55.842Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e%0A
+2025-04-14T16:55:12.372Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:55:14.620Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T16:56:08.684Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
+2025-04-14T17:29:48.768Z - [GET] /api/tasks?userId=05e347fd-9e93-418b-9e15-a583466dd08e
