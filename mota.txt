@@ -1,2 +1,20 @@
-đây là file mô tả
+Đây là một ứng dụng quản lý công việc (Todo) được xây dựng theo kiến trúc **microservices**, sử dụng **Docker** để container hóa toàn bộ hệ thống.
+
+
+
+Client
+  │
+  ▼
+API Gateway
+  ├──> Auth Service
+  └──> Todo Service
+
+| Service         | Mô tả                                                                 
+|-----------------|----------------------------------------------------------------------
+| `auth_service`  | Xử lý xác thực người dùng, bao gồm đăng ký, đăng nhập, và cấp JWT     
+| `todo_service`  | Xử lý các chức năng CRUD Todo (thêm/sửa/xóa công việc)               
+| `api_gateway`   | Là cầu nối giữa client và các service. Nhận request và định tuyến đến đúng service tương ứng 
+
+Tất cả các service đã được **Docker hóa**. Mỗi service có một `Dockerfile` riêng, cấu hình sẵn sàng để build.
+ `docker-compose.yml` để gom toàn bộ service lại và dễ dàng chạy cùng lúc
 
