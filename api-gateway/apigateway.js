@@ -53,7 +53,17 @@ app.post("/auth/register", async (req, res) => {
 // Lấy danh sách task (GET)
 app.get("/tasks", async (req, res) => {
   try {
-    const response = await axios.get("http://localhost:5002/api/tasks");
+    const { userId } = req.query; // Lấy userId từ request của client gửi lên
+
+    if (!userId) {
+      return res.status(400).json({ message: "userId is required" });
+    }
+
+    // Gọi tới todo_service kèm theo userId
+    const response = await axios.get("http://localhost:5002/api/tasks", {
+      params: { userId },
+    });
+
     res.json(response.data);
   } catch (error) {
     console.error("Lỗi kết nối Task Service:", error.message);

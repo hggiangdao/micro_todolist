@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  auth_service:
+    build: ./auth_service
+    ports:
+      - "5001:5001"
+    env_file:
+      - ./auth_service/.env
+    depends_on:
+      - mongo
+
+  todo_service:
+    build: ./todolist_service
+    ports:
+      - "5002:5002"
+    env_file:
+      - ./todolist_service/.env
+    depends_on:
+      - mongo
+
+  api_gateway:
+    build: ./api-gateway
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./api-gateway/.env
+    depends_on:
+      - auth_service
+      - todo_service
+
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
